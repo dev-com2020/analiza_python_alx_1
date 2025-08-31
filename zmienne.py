@@ -90,3 +90,4 @@ person["age"] = 31
 print(person)
 print(person["name"])
 print(person["hobby"][0])
+print(len(person))
